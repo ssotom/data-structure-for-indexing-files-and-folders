@@ -4,3 +4,5 @@ The objective of this project was to develop a data structure to represent direc
 This project was developed in 2017 for the course of data structures and algorithms I.
 
 Original repository: https://github.com/ssotom/st0245-033/tree/master/proyecto
+
+For more information read 'Documento Final.pdf'
